@@ -11,3 +11,11 @@ Bienvenue dans ce projet dédié à l'application de l'intelligence artificielle
    - **Prévision du cours des actions à l'aide d'ARIMA et de LSTM** : Ce notebook se concentre sur la prévision des cours boursiers en utilisant deux modèles prédictifs couramment utilisés dans l'analyse des séries temporelles : ARIMA (AutoRegressive Integrated Moving Average) et LSTM (Long Short-Term Memory). Des comparaisons de performance entre ces modèles sont également réalisées.
 
 
+## Structure du dépôt
+
+* presentation.pdf # Présentation du programme en format PDF
+* Analyse_Pratique_Eligibilite_Credit.ipynb # Notebook d'analyse de l'éligibilité au crédit
+* Prévision_Cours_Actions_ARIMA_LSTM.ipynb # Notebook de prévision des cours des actions
+
+
+
